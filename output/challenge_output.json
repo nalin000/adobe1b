@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "input_documents": [
+            "city.pdf",
+            "cui.pdf",
+            "his.pdf",
+            "res.pdf",
+            "things.pdf",
+            "tps.pdf",
+            "trad.pdf"
+        ],
+        "persona": {
+            "role": "Travel Planner",
+            "focus": "Group trip planning, destination curation, budgeting"
+        },
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends",
+        "processing_timestamp": "2025-07-24 16:48:29"
+    },
+    "extracted_sections": [
+        {
+            "document": "tps.pdf",
+            "page_number": 8,
+            "section_title": "...",
+            "importance_rank": 1
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 7,
+            "section_title": "...",
+            "importance_rank": 2
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 9,
+            "section_title": "...",
+            "importance_rank": 3
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 6,
+            "section_title": "...",
+            "importance_rank": 4
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 4,
+            "section_title": "...",
+            "importance_rank": 5
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 2,
+            "section_title": "...",
+            "importance_rank": 6
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 1,
+            "section_title": "...",
+            "importance_rank": 7
+        },
+        {
+            "document": "things.pdf",
+            "page_number": 10,
+            "section_title": "...",
+            "importance_rank": 8
+        },
+        {
+            "document": "tps.pdf",
+            "page_number": 5,
+            "section_title": "...",
+            "importance_rank": 9
+        },
+        {
+            "document": "things.pdf",
+            "page_number": 9,
+            "section_title": "...",
+            "importance_rank": 10
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 8
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 7
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 9
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 6
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 4
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 2
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 1
+        },
+        {
+            "document": "things.pdf",
+            "refined_text": "",
+            "page_number": 10
+        },
+        {
+            "document": "tps.pdf",
+            "refined_text": "",
+            "page_number": 5
+        },
+        {
+            "document": "things.pdf",
+            "refined_text": "",
+            "page_number": 9
+        }
+    ]
+}
